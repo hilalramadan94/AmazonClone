@@ -1,3 +1,14 @@
+This is how its look like
+
+![alt text](https://github.com/hilalramadan94/AmazonClone/blob/master/screenshoot/1.jpg?raw=true)
+<br />
+![alt text](https://github.com/hilalramadan94/AmazonClone/blob/master/screenshoot/2.jpg?raw=true)
+<br />
+![alt text](https://github.com/hilalramadan94/AmazonClone/blob/master/screenshoot/3.jpg?raw=true)
+
+<br />
+<br />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
